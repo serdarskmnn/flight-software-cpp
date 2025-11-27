@@ -1,0 +1,12 @@
+# Derlenmiş dosyaları yoksay
+*.out
+*.exe
+*.o
+*.app
+
+# Build klasörünü yoksay
+build/
+bin/
+
+# VS Code ayar dosyalarını yoksay
+.vscode/
